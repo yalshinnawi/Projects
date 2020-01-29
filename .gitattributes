@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+*.js linguist-detectable=false
+*.java linguist-detectable=true
+*.python linguist-detectable=true
+*.matlab linguist-detectable = true
+*.scheme linguist-detectable = true
