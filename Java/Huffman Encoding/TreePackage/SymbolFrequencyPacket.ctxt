@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SymbolFrequencyPacket
+comment1.params=symbols\ frequency
+comment1.target=SymbolFrequencyPacket(java.util.List,\ long)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SymbolFreqencyPacket\r\n
+comment2.params=
+comment2.target=long\ getFrequency()
+comment2.text=\r\n\ Get\ the\ combined\ frequency\ of\ all\ the\ symbols\r\n\ \r\n\ @return\ \ \ \ \ the\ total\ frequency\ \r\n
+comment3.params=
+comment3.target=java.util.List\ getSymbols()
+comment3.text=\r\n\ Get\ the\ List\ of\ all\ the\ symbols\r\n\ \r\n\ @return\ \ \ \ \ the\ total\ frequency\ \r\n
+comment4.params=symbol
+comment4.target=boolean\ inList(java.lang.Object)
+comment4.text=\r\n\ Determine\ if\ a\ symbol\ is\ in\ the\ list\r\n\r\n\ @param\ \ symbol\ \ \ the\ symbol\ to\ look\ for\r\n\ @return\ \ \ \ \ true\ if\ the\ symbol\ is\ in\ the\ list\r\n
+comment5.params=highlight
+comment5.target=void\ setHighLighting(boolean)
+comment5.text=\r\n\ Set\ the\ highlighting\r\n\ \r\n\ @param\ highlight\ if\ true,\ highlight\ the\ node\ \r\n
+comment6.params=g\ centerX\ centerY
+comment6.target=void\ drawOn(java.awt.Graphics,\ int,\ int)
+comment6.text=\r\n\ draw\ a\ representation\ of\ the\ symbol\ frequency\ packet\ centered\ at\r\n\ the\ given\ location\r\n\ \r\n\ @param\ \ \ g\ \ the\ graphics\ context\ to\ draw\ on\ \ \ \r\n\ @param\ \ \ centerX\ \ x\ position\ of\ text\ to\ draw\r\n\ @param\ \ \ centerY\ \ y\ position\ of\ text\ to\ draw\r\n\ \r\n
+numComments=7

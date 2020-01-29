@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Iterator<T>\ getPreorderIterator()
+comment1.target=Iterator<T>\ getPostorderIterator()
+comment2.target=Iterator<T>\ getInorderIterator()
+comment3.target=Iterator<T>\ getLevelOrderIterator()
+numComments=4

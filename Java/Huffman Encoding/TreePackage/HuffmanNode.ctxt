@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=HuffmanNode()
+comment1.params=dataPortion
+comment1.target=HuffmanNode(SymbolFrequencyPacket<T>)
+comment10.target=boolean\ hasRightChild()
+comment11.target=boolean\ isLeaf()
+comment12.target=int\ getHeight()
+comment13.params=node
+comment13.target=int\ getHeight(HuffmanNode<T>)
+comment14.target=int\ getNumberOfNodes()
+comment15.target=HuffmanNode<T>\ copy()
+comment16.params=g\ centerX\ centerY
+comment16.target=void\ drawOn(Graphics,\ int,\ int)
+comment16.text=\ndraw\ a\ representation\ of\ the\ node\ centered\ at\nthe\ given\ location\ \ (pass\ it\ onto\ the\ data)\n\n@param\ \ \ g\ \ the\ graphics\ context\ to\ draw\ on\ \ \ \n@param\ \ \ centerX\ \ x\ position\ of\ text\ to\ draw\n@param\ \ \ centerY\ \ y\ position\ of\ text\ to\ draw\n\n\n
+comment2.params=dataPortion\ leftChild\ rightChild
+comment2.target=HuffmanNode(SymbolFrequencyPacket<T>,\ HuffmanNode<T>,\ HuffmanNode<T>)
+comment3.target=SymbolFrequencyPacket<T>\ getData()
+comment4.params=newData
+comment4.target=void\ setData(SymbolFrequencyPacket<T>)
+comment5.target=BinaryNodeInterface<SymbolFrequencyPacket<T>>\ getLeftChild()
+comment6.params=leftChild
+comment6.target=void\ setLeftChild(BinaryNodeInterface<SymbolFrequencyPacket<T>>)
+comment7.target=boolean\ hasLeftChild()
+comment8.target=BinaryNodeInterface<SymbolFrequencyPacket<T>>\ getRightChild()
+comment9.params=rightChild
+comment9.target=void\ setRightChild(BinaryNodeInterface<SymbolFrequencyPacket<T>>)
+numComments=17

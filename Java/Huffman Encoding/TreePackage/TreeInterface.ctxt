@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=T\ getRootData()
+comment1.target=int\ getHeight()
+comment2.target=int\ getNumberOfNodes()
+comment3.target=boolean\ isEmpty()
+comment4.target=void\ clear()
+numComments=5

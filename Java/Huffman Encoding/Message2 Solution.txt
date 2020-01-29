@@ -1,0 +1,12 @@
+The message lines are:
+CHEESES CHEESES
+T CLEESE SELLS THE CHEESES
+
+Encoding   : 110 2 ones  and 1 zeros
+Encoding C : 11110 4 ones  and 1 zeros
+Encoding E : 0 0 ones  and 1 zeros
+Encoding H : 1110 3 ones  and 1 zeros
+Encoding L : 111111 6 ones  and 0 zeros
+Encoding S : 10 1 ones  and 1 zeros
+Encoding T : 111110 5 ones  and 1 zeros
+Encoding Finished

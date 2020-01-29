@@ -1,0 +1,62 @@
+The message lines are:
+This is a very simple file with some
+text to be checked by our prototype
+spelling checker.
+It has some words that should not be recognized.
+Just some fun text! (You shouldn't take it seriously.)
+Slowly she turned and said, "Bob, I don't know
+if I like you any more.  Do you know why?"
+He replied "As the raven once said: 'Never more'".
+As she sighed and left the room, the entire chorus
+began to whistle and sing. They sang loudly; they sang
+quickly.  They wouldn't stop singing, even when he began to 
+yell at them to stop.  
+"Stop!" He yelled.
+
+Encoding   : 0 0 ones  and 1 zeros
+Encoding ! : 1111111111111111111111111111111110 33 ones  and 1 zeros
+Encoding " : 11111111111111111111110 22 ones  and 1 zeros
+Encoding ' : 111111111111111111111110 23 ones  and 1 zeros
+Encoding ( : 111111111111111111111111111111111111111111111 45 ones  and 0 zeros
+Encoding ) : 111111111111111111111111111111111111111111110 44 ones  and 1 zeros
+Encoding , : 111111111111111111111111110 26 ones  and 1 zeros
+Encoding . : 11111111111111110 16 ones  and 1 zeros
+Encoding : : 11111111111111111111111111111111111111111110 43 ones  and 1 zeros
+Encoding ; : 1111111111111111111111111111111111111111110 42 ones  and 1 zeros
+Encoding ? : 111111111111111111111111111111111111111110 41 ones  and 1 zeros
+Encoding A : 111111111111111111111111111111110 32 ones  and 1 zeros
+Encoding B : 11111111111111111111111111111111111111110 40 ones  and 1 zeros
+Encoding D : 1111111111111111111111111111111111111110 39 ones  and 1 zeros
+Encoding H : 11111111111111111111111111111110 31 ones  and 1 zeros
+Encoding I : 11111111111111111111111111110 28 ones  and 1 zeros
+Encoding J : 111111111111111111111111111111111111110 38 ones  and 1 zeros
+Encoding N : 11111111111111111111111111111111111110 37 ones  and 1 zeros
+Encoding S : 1111111111111111111111111111110 30 ones  and 1 zeros
+Encoding T : 1111111111111111111111111110 27 ones  and 1 zeros
+Encoding Y : 1111111111111111111111111111111111110 36 ones  and 1 zeros
+Encoding a : 1111111111110 12 ones  and 1 zeros
+Encoding b : 1111111111111111111110 21 ones  and 1 zeros
+Encoding c : 11111111111111111110 19 ones  and 1 zeros
+Encoding d : 1111111110 9 ones  and 1 zeros
+Encoding e : 10 1 ones  and 1 zeros
+Encoding f : 11111111111111111111111110 25 ones  and 1 zeros
+Encoding g : 111111111111110 14 ones  and 1 zeros
+Encoding h : 1111110 6 ones  and 1 zeros
+Encoding i : 111111110 8 ones  and 1 zeros
+Encoding k : 111111111111111111110 20 ones  and 1 zeros
+Encoding l : 11111110 7 ones  and 1 zeros
+Encoding m : 1111111111111111110 18 ones  and 1 zeros
+Encoding n : 111110 5 ones  and 1 zeros
+Encoding o : 110 2 ones  and 1 zeros
+Encoding p : 111111111111111110 17 ones  and 1 zeros
+Encoding q : 111111111111111111111111111111111110 35 ones  and 1 zeros
+Encoding r : 111111111110 11 ones  and 1 zeros
+Encoding s : 11110 4 ones  and 1 zeros
+Encoding t : 1110 3 ones  and 1 zeros
+Encoding u : 11111111111110 13 ones  and 1 zeros
+Encoding v : 1111111111111111111111110 24 ones  and 1 zeros
+Encoding w : 1111111111111110 15 ones  and 1 zeros
+Encoding x : 111111111111111111111111111110 29 ones  and 1 zeros
+Encoding y : 11111111110 10 ones  and 1 zeros
+Encoding z : 11111111111111111111111111111111110 34 ones  and 1 zeros
+Encoding Finished

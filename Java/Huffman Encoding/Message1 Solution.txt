@@ -1,0 +1,11 @@
+The message lines are:
+CHEESESCHEESES
+TCLEESESELLSTHECHEESES
+
+Encoding C : 1110 3 ones  and 1 zeros
+Encoding E : 0 0 ones  and 1 zeros
+Encoding H : 110 2 ones  and 1 zeros
+Encoding L : 11111 5 ones  and 0 zeros
+Encoding S : 10 1 ones  and 1 zeros
+Encoding T : 11110 4 ones  and 1 zeros
+Encoding Finished

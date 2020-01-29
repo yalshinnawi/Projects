@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=d\ x
+comment0.target=Stepper(java.lang.Object,\ java.awt.Component)
+comment1.params=
+comment1.target=int\ getStep()
+comment2.params=
+comment2.target=Stepper.State\ getStatus()
+comment3.params=
+comment3.target=void\ setupStep()
+comment4.params=
+comment4.target=void\ initialStateStep()
+comment5.params=
+comment5.target=void\ animationStep()
+comment6.params=
+comment6.target=void\ finalStep()
+numComments=7

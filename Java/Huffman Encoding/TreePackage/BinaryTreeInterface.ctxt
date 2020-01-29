@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=rootData
+comment0.target=void\ setTree(T)
+comment0.text=Task\:\ Sets\ an\ existing\ binary\ tree\ to\ a\ new\ one-node\ binary\ tree.\n@param\ rootData\ an\ object\ that\ is\ the\ data\ in\ the\ new\ tree\u2019s\ root\n\n
+comment1.params=rootData\ leftTree\ rightTree
+comment1.target=void\ setTree(T,\ BinaryTreeInterface<T>,\ BinaryTreeInterface<T>)
+comment1.text=Task\:\ Sets\ an\ existing\ binary\ tree\ to\ a\ new\ binary\ tree.\n@param\ rootData\ an\ object\ that\ is\ the\ data\ in\ the\ new\ tree\u2019s\ root\n@param\ leftTree\ the\ left\ subtree\ of\ the\ new\ tree\n@param\ rightTree\ the\ right\ subtree\ of\ the\ new\ tree\ \n
+numComments=2

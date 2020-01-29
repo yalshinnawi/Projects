@@ -1,0 +1,32 @@
+This is a four line
+file that you can compress
+using Huffmman encoding.
+Good Luck!
+
+Encoding   : 0 0 ones  and 1 zeros
+Encoding ! : 1111111111111111111111111 25 ones  and 0 zeros
+Encoding . : 1111111111111111111111110 24 ones  and 1 zeros
+Encoding G : 111111111111111111111110 23 ones  and 1 zeros
+Encoding H : 11111111111111111111110 22 ones  and 1 zeros
+Encoding L : 1111111111111111111110 21 ones  and 1 zeros
+Encoding T : 111111111111111111110 20 ones  and 1 zeros
+Encoding a : 1111111110 9 ones  and 1 zeros
+Encoding c : 111111110 8 ones  and 1 zeros
+Encoding d : 11111111111111110 16 ones  and 1 zeros
+Encoding e : 11111110 7 ones  and 1 zeros
+Encoding f : 1111110 6 ones  and 1 zeros
+Encoding g : 1111111111111110 15 ones  and 1 zeros
+Encoding h : 111111111111110 14 ones  and 1 zeros
+Encoding i : 1110 3 ones  and 1 zeros
+Encoding k : 11111111111111111110 19 ones  and 1 zeros
+Encoding l : 11111111111110 13 ones  and 1 zeros
+Encoding m : 11111111110 10 ones  and 1 zeros
+Encoding n : 110 2 ones  and 1 zeros
+Encoding o : 10 1 ones  and 1 zeros
+Encoding p : 1111111111111111110 18 ones  and 1 zeros
+Encoding r : 1111111111110 12 ones  and 1 zeros
+Encoding s : 111110 5 ones  and 1 zeros
+Encoding t : 111111111110 11 ones  and 1 zeros
+Encoding u : 11110 4 ones  and 1 zeros
+Encoding y : 111111111111111110 17 ones  and 1 zeros
+Encoding Finished

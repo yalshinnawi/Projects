@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Code
+comment0.text=\r\n\ A\ class\ that\ will\ be\ used\ to\ display\ a\ coded\ message\r\n\ Make\ all\ methods\ synchronized\r\n\ \r\n\ @author\ Charles\ Hoot\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=Code()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Code\r\n
+comment2.params=c
+comment2.target=void\ addCharacter(java.lang.Character)
+comment2.text=\r\n\ Add\ a\ new\ character\ to\ the\ code\ \r\n\ \r\n\ @param\ \ c\ \ \ a\ string\ \r\n
+comment3.params=g\ leftX\ topY
+comment3.target=void\ drawOn(java.awt.Graphics,\ int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

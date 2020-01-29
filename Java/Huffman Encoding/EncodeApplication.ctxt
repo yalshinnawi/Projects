@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EncodeApplication
+comment0.text=\r\n\ An\ application\ to\ detect\ possibly\ misspelled\ words\r\n\ \ \r\n\ @author\ Charles\ Hoot\ \r\n\ @version\ 2.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
